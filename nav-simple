@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>HTML, CSS and JavaScript demo</title>
+</head>
+<body>
+  <nav>
+    <ul>
+      <li><a href="">HOME</a></li>
+      <li><a href="">HOME</a></li>
+      <li><a href="">HOME</a></li>
+      <li><a href="">HOME</a></li>
+      
+    </ul>
+  </nav>
+  
+  
+</body>
+</html>
